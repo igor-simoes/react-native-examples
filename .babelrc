@@ -1,0 +1,8 @@
+// add CodeIDE plugins for react-native
+{
+"presets": [
+  "react-native"
+],
+"plugins": [],
+"sourceMaps": true
+}
